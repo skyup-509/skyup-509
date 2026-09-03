@@ -3,8 +3,6 @@
   <a href="./README_EN.md">🇺🇸 English</a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4A6FA5&background=CFF0FF&width=435&lines=Welcome+to+SKY+world)](https://git.io/typing-svg)
-
 # 안녕하세요! 숫자 넘어의 답을 찾는 Park Cheonsang 입니다!
 > 데이터로 더 나은 결정에 도움을 주며 일하고싶어요
 ## About Me
