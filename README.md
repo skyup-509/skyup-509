@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**skyup-509/skyup-509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 안녕하세요! 숫자 넘어의 답을 찾는 Park Cheon Sang 입니다!
+> 데이터로 더 나은 결정에 도움을 주며 일하고싶어요
+## About Me
+- Data Science에 관심이 있어요
+- 자원 최적화에 관심이 있어요
+## Education
+- B.S. in Industrial Engineering, Kumoh National Institute of Technology (2021.03 — present)
+- High School Diploma, Gyeonju High School
+## Work Experience
+- Intern at KEPCO E&C (2026.09 — present)
