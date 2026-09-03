@@ -16,7 +16,11 @@
 
 - **FRESH 공동체 활동 — Mentor**
 
-    *Kumoh National Institute of Technology · 2026.03 – 2026.12*
+    *Kumoh National Institute of Technology · 2025.03 – 2025.12*
+
+- **기초학력 증진 프로그램 — Mentor**
+
+    *Kumoh National Institute of Technology · 2026.04 – 2026.06*
 ## Projects
 
 ## Certificates
