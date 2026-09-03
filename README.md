@@ -3,8 +3,14 @@
 ## About Me
 - Data Science에 관심이 있어요
 - 자원 최적화에 관심이 있어요
+- RAG와 Reinforced Learning을 학습하고 있어요
 ## Education
 - B.S. in Industrial Engineering, Kumoh National Institute of Technology (2021.03 — present)
 - High School Diploma, Gyeonju High School
 ## Work Experience
 - Intern at KEPCO E&C (2026.09 — present)
+## Achievements
+
+## Projects
+
+## Certificates
