@@ -50,3 +50,7 @@
 - ADsP
 - SQLD
 - Google Analytics Certicates (GA4) By Google
+
+## Contact Me
+  [![Email](https://img.shields.io/badge/email-FFCD00?style=for-the-badge&logo=kakao&logoColor=000000)](mailto:parkcs0509@kakao.com)
+[![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/pgFfcF0ZA6Q2fR3-Zq2l21O4yj510KsSOwgERgNS2ZuP8XGlb-ZOrJkPJaLG_32S)
