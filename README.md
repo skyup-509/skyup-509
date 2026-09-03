@@ -1,9 +1,16 @@
+<p align="right">
+  <a href="./README.md">🇰🇷 한국어</a> |
+  <a href="./README_EN.md">🇺🇸 English</a>
+</p>
+
+
 # 안녕하세요! 숫자 넘어의 답을 찾는 Park Cheonsang 입니다!
 > 데이터로 더 나은 결정에 도움을 주며 일하고싶어요
 ## About Me
 - **Data Science**에 관심이 있어요
 - 자원 **최적화**에 관심이 있어요
 - **RAG**와 **Reinforced Learning**을 학습하고 있어요
+
 ## Education
 - **B.S. in Industrial Engineering, Minor in Artificial Intelligence Engineering**
 
