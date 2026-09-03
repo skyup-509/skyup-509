@@ -1,14 +1,20 @@
 # 안녕하세요! 숫자 넘어의 답을 찾는 Park Cheonsang 입니다!
 > 데이터로 더 나은 결정에 도움을 주며 일하고싶어요
 ## About Me
-- Data Science에 관심이 있어요
-- 자원 최적화에 관심이 있어요
-- RAG와 Reinforced Learning을 학습하고 있어요
+- **Data Science**에 관심이 있어요
+- 자원 **최적화**에 관심이 있어요
+- **RAG**와 **Reinforced Learning**을 학습하고 있어요
 ## Education
-- B.S. in Industrial Engineering, Kumoh National Institute of Technology (2021.03 – present)
-- High School Diploma, Gyeonju High School
+- **B.S. in Industrial Engineering, Minor in Artificial Intelligence Engineering**
+
+    *Kumoh National Institute of Technology · 2021.03 – present*
+
+- **High School Diploma**
+
+    *Gyeongju High School · 2018.03 – 2021.02*
+
 ## Work Experience
-- Intern at KEPCO E&C (2026.09 – present)
+- Intern at **KEPCO E&C** (2026.09 – present)
 ## Achievements
 - **NVIDIA Physical AI Vision-LLM 융합 멀티모달 시스템 교육**
 
