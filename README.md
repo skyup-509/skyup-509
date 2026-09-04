@@ -5,7 +5,12 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&height=115&lines=Welcome+to+SKY+world)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&height=115&lines=Welcome+to+SKY+world" width="100%">
+<div align='center'>
+    <img 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&height=115&lines=Welcome+to+SKY+world"
+        width="100%"
+    />
+</div>
 
 
 # 안녕하세요! 숫자 넘어의 답을 찾는 Park Cheonsang 입니다!
