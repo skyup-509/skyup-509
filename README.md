@@ -3,6 +3,11 @@
   <a href="./README_EN.md">🇺🇸 English</a>
 </p>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&height=115&lines=Welcome+to+SKY+world)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&height=115&lines=Welcome+to+SKY+world" width="100%">
+
+
 # 안녕하세요! 숫자 넘어의 답을 찾는 Park Cheonsang 입니다!
 > 데이터로 더 나은 결정에 도움을 주며 일하고싶어요
 ## About Me
