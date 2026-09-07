@@ -10,6 +10,9 @@
 - 자원 **최적화**에 관심이 있어요
 - **RAG**와 **Reinforced Learning**을 학습하고 있어요
 
+## Work Experience
+- Intern at **KEPCO E&C** (2026.09 – present)
+
 ## Education
 - **B.S. in Industrial Engineering, Minor in Artificial Intelligence Engineering**
 
@@ -19,8 +22,20 @@
 
     *Gyeongju High School · 2018.03 – 2021.02*
 
-## Work Experience
-- Intern at **KEPCO E&C** (2026.09 – present)
+## Projects
+
+<img align="left" width="250" height="150" src="/img/rag.png"> **[RAG 구현](https://github.com/skyup-509/rag)**
+
+비정형 데이터가 증가하면서 필요한 정보를 찾고 활용하는 데 많은 시간과 반복적인 작업이 발생하는 문제를 해결하고자 RAG를 직접 구현했습니다.
+문서를 벡터화하고 관련 정보를 검색하여 LLM과 결합함으로써, 비정형 데이터를 쉽게 검색·활용하고 정보 탐색에 드는 비용을 줄이는 것을 목표로 합니다.
+
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Visual Studio COde](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 ## Achievements
 - **NVIDIA Physical AI Vision-LLM 융합 멀티모달 시스템 교육**
 
@@ -33,21 +48,6 @@
 - **기초학력 증진 프로그램 — Mentor**
 
     *Kumoh National Institute of Technology · 2026.04 – 2026.06*
-
-## Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Visual Studio COde](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-## Projects
-
-<img align="left" width="250" height="150" src="/img/rag.png"> **[RAG 구현](https://github.com/skyup-509/rag)**
-
-비정형 데이터가 증가하면서 필요한 정보를 찾고 활용하는 데 많은 시간과 반복적인 작업이 발생하는 문제를 해결하고자 RAG를 직접 구현했습니다.
-문서를 벡터화하고 관련 정보를 검색하여 LLM과 결합함으로써, 비정형 데이터를 쉽게 검색·활용하고 정보 탐색에 드는 비용을 줄이는 것을 목표로 합니다.
-
 
 ## Certificates
 - 빅데이터분석기사
