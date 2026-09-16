@@ -29,6 +29,7 @@
 비정형 데이터가 증가하면서 필요한 정보를 찾고 활용하는 데 많은 시간과 반복적인 작업이 발생하는 문제를 해결하고자 RAG를 직접 구현했습니다.
 문서를 벡터화하고 관련 정보를 검색하여 LLM과 결합함으로써, 비정형 데이터를 쉽게 검색·활용하고 정보 탐색에 드는 비용을 줄이는 것을 목표로 합니다.
 
+
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
