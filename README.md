@@ -24,15 +24,37 @@
 
 ## Projects
 
-<img align="left" width="250" height="150" src="/img/rag.png"> **[RAG 구현](https://github.com/skyup-509/rag)**
+<table>
+    <tr>
+        <td width="250">
+            <img src="/img/rag.png" width="250">
+        </td>
+        <td>
+            <strong><a href="https://github.com/skyup-509/rag">RAG 구현</a></strong>
+            <br><br>
+            <ul>
+                <li>비정형 데이터의 정보 탐색 및 활용 효율 개선</li>
+                <li>문서 벡터화 및 관련 정보 검색</li>
+                <li>검색 결과와 LLM을 결합한 RAG 시스템 직접 구현</li>
+            </ul>
+        </td>
+    </tr>
 
-비정형 데이터가 증가하면서 필요한 정보를 찾고 활용하는 데 많은 시간과 반복적인 작업이 발생하는 문제를 해결하고자 RAG를 직접 구현했습니다.
-문서를 벡터화하고 관련 정보를 검색하여 LLM과 결합함으로써, 비정형 데이터를 쉽게 검색·활용하고 정보 탐색에 드는 비용을 줄이는 것을 목표로 합니다.
-
-<img align="left" width="250" height="150" src="/img/sensor_distribution.png"> **[품질 개선 및 생산성 향상 방안 도출](https://github.com/skyup-509/Quality-Management)**
-
-SMT 공정의 센서 데이터를 활용해 불량 발생과 관련된 주요 공정 환경 요인을 분석했다.
-머신러닝을 통해 불량 발생 가능성을 예측하고, 센서 조건 조합별 예상 불량률을 비교해 품질 개선 방안을 도출했다.
+    <tr>
+        <td width="250">
+            <img src="/img/sensor_distribution.png" width="250">
+        </td>
+        <td>
+            <strong><a href="https://github.com/skyup-509/Quality-Management">품질 개선 및 생산성 향상 방안 도출</a></strong>
+            <br><br>
+            <ul>
+                <li>SMT 공정 센서 데이터를 활용한 불량 요인 분석</li>
+                <li>통계 분석 및 Random Forest를 활용한 공정 환경별 예상 불량률 예측</li>
+                <li>센서 조건 조합별 예상 불량률 비교 및 품질 개선 조건 도출</li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
