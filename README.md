@@ -39,7 +39,6 @@
             </ul>
         </td>
     </tr>
-
     <tr>
         <td width="250">
             <img src="/img/sensor_distribution.png" width="250">
