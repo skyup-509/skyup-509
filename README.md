@@ -27,10 +27,10 @@
 <table>
     <tr>
         <td width="250">
-            <img src="/img/SCM_Forecast.png" width="250">
+            <img src="/img/SCM_Forecast.jpg" width="250">
         </td>
         <td>
-            <strong><a href="https://github.com/skyup-509/SCM_Forecast">수요 예측 오차와 재고 수준에 대한 관계 분</a></strong>
+            <strong><a href="https://github.com/skyup-509/SCM_Forecast">수요 예측 오차와 재고 수준에 대한 관계 분석</a></strong>
             <br><br>
             <ul>
                 <li>수요예측 모델을 구축하여 SKU별 미래 판매량을 예측</li>
