@@ -41,6 +41,20 @@
     </tr>
     <tr>
         <td width="250">
+            <img src="/img/SCM_SafetyStock.jpg" width="250">
+        </td>
+        <td>
+            <strong><a href="https://github.com/skyup-509/SCM_SafetyStock">안전재고율에 따른 재고 비용 최적화</a></strong>
+            <br><br>
+            <ul>
+                <li>ML 기반 수요예측 모델 3종을 구축하여 미래 수요를 예측하고 모델별 예측 성능 비교</li>
+                <li>예측 수요를 기반으로 안전재고율을 변화시키며 재고 수준과 품절/과잉재고 변화를 분석/li>
+                <li>예측 정확도와 안전재고율에 따른 재고 운영 성과를 비교하여 적정 안전재고 수준을 검토</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td width="250">
             <img src="/img/sensor_distribution.png" width="250">
         </td>
         <td>
