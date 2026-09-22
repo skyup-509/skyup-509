@@ -27,15 +27,15 @@
 <table>
     <tr>
         <td width="250">
-            <img src="/img/rag.png" width="250">
+            <img src="/img/SCM_Forecast.png" width="250">
         </td>
         <td>
-            <strong><a href="https://github.com/skyup-509/rag">RAG 구현</a></strong>
+            <strong><a href="https://github.com/skyup-509/SCM_Forecast">수요 예측 오차와 재고 수준에 대한 관계 분</a></strong>
             <br><br>
             <ul>
-                <li>비정형 데이터의 정보 탐색 및 활용 효율 개선</li>
-                <li>문서 벡터화 및 관련 정보 검색</li>
-                <li>검색 결과와 LLM을 결합한 RAG 시스템 직접 구현</li>
+                <li>수요예측 모델을 구축하여 SKU별 미래 판매량을 예측</li>
+                <li>예측 오차와 재고 수준·품절 위험의 관계를 분석하여 수요예측이 재고 운영에 미치는 영향 확인</li>
+                <li>각 머신러닝(ML)의 예측 성능과 재고 운영 지표를 비교하여 모델 평가 기준을 확장</li>
             </ul>
         </td>
     </tr>
@@ -50,6 +50,20 @@
                 <li>SMT 공정 센서 데이터를 활용한 불량 요인 분석</li>
                 <li>통계 분석 및 Random Forest를 활용한 공정 환경별 예상 불량률 예측</li>
                 <li>센서 조건 조합별 예상 불량률 비교 및 품질 개선 조건 도출</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td width="250">
+            <img src="/img/rag.png" width="250">
+        </td>
+        <td>
+            <strong><a href="https://github.com/skyup-509/rag">RAG 구현</a></strong>
+            <br><br>
+            <ul>
+                <li>비정형 데이터의 정보 탐색 및 활용 효율 개선</li>
+                <li>문서 벡터화 및 관련 정보 검색</li>
+                <li>검색 결과와 LLM을 결합한 RAG 시스템 직접 구현</li>
             </ul>
         </td>
     </tr>
