@@ -6,21 +6,21 @@
 # 안녕하세요! 숫자 넘어의 답을 찾는 Park Cheonsang 입니다!
 > 데이터로 더 나은 결정에 도움을 주며 일하고싶어요
 ## About Me
-- **Data Science**에 관심이 있어요
-- 자원 **최적화**에 관심이 있어요
-- **RAG**와 **Reinforced Learning**을 학습하고 있어요
+- **Data Science**를 활용한 **생산관리와 일정 최적화**에 관심이 있어요
+- 수요와 생산 데이터를 분석해 **자원 활용을 개선**하는 방법을 고민해요
+- *Optimization*과 *Machine Learning*을 활용한 **문제 해결**을 공부하고 있어요
 
 ## Work Experience
-- Intern at **KEPCO E&C** (2026.09 – present)
+- **한국전력기술(KEPCO E&C)** 현장실습 | 2026.09 – 현재
 
 ## Education
-- **B.S. in Industrial Engineering, Minor in Artificial Intelligence Engineering**
+- **금오공과대학교 산업공학과 학사, 인공지능공학 부전공**
 
-    *Kumoh National Institute of Technology · 2021.03 – present*
+    *Kumoh National Institute of Technology | 2021.03 – 현재*
 
-- **High School Diploma**
+- **경주고등학교 졸업**
 
-    *Gyeongju High School · 2018.03 – 2021.02*
+    *Gyeongju High School | 2018.03 – 2021.02*
 
 ## Projects
 
